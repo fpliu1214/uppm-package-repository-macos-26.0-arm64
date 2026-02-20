@@ -31,6 +31,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -40,7 +42,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -86,6 +88,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -95,7 +99,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -141,6 +145,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -150,7 +156,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -196,6 +202,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -205,7 +213,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -251,6 +259,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -260,7 +270,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
@@ -306,6 +316,8 @@ jobs:
           do
               bin/xcpkg bundle "$item" .tar.xz
 
+              ls
+
               PACKAGE_SUMMARY="$(bin/xcpkg info-installed "$item" summary)"
               PACKAGE_WEB_URL="$(bin/xcpkg info-installed "$item" web-url)"
               PACKAGE_VERSION="$(bin/xcpkg info-installed "$item" version)"
@@ -315,7 +327,7 @@ jobs:
 
               PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
 
-              PACKAGE_BIN_SHA="$(bin/xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+              PACKAGE_BIN_SHA="$(bin/xcpkg util sha256sum "$PACKAGE_FILENAME")"
 
               PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
 
