@@ -16,7 +16,7 @@ sed -n '/^dep-pkg:/p' *.yml | cut -c10- | tr ' ' '\n' | sort | uniq > b
 
 SED="sed -e s|^-||"
 
-for item in xmlto chisel d8 fortune psutils timg opencv watchman mpv libmpv koka llvm@16
+for item in xmlto chisel d8 fortune psutils timg opencv redex watchman mpv libmpv koka llvm@16
 do
     SED="$SED -e /^$item$/d"
 done
