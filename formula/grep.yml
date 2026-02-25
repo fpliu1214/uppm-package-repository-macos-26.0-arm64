@@ -1,0 +1,5 @@
+summary: GNU grep, egrep and fgrep
+webpage: https://www.gnu.org/software/grep
+version: 3.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/grep-3.12-MacOSX-26.0-arm64.tar.xz
+bin-sha: d41bdf6ac9d4c42f8ec7e6f2ec67a16ca0ffdf672c36a0287cc2b6d8d848a1ce

@@ -1,0 +1,5 @@
+summary: Go git service
+webpage: https://gogs.io
+version: 0.14.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gogs-0.14.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: b82fbf8f7abad959b569ddc147784ee352eaddd5479285b8bb0b52f6f2336e3f

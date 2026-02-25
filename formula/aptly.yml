@@ -1,0 +1,5 @@
+summary: Swiss army knife for Debian repository management
+webpage: https://www.aptly.info/
+version: 1.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/aptly-1.6.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 53409a6fd112dd6b83839b682bc3f0ae57e30326ae56dc4e6633c3be843090d9

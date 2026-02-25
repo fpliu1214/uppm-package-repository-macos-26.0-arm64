@@ -1,0 +1,5 @@
+summary: Blazing fast terminal file manager written in Rust, based on async I/O
+webpage: https://github.com/sxyazi/yazi/
+version: 26.1.22
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/yazi-26.1.22-MacOSX-26.0-arm64.tar.xz
+bin-sha: ff6c6111b5bbae01ea833489a9d005d83a537a7d9e2e1b32f72bc4b46012b0fa

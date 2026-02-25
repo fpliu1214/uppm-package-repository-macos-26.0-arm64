@@ -1,0 +1,5 @@
+summary: Text-based web browser
+webpage: http://lynx.browser.org
+version: 2.9.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lynx-2.9.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9d7eb6f0cf4354b980f54b06a26c7d68aad5193e3f6319aefbf8b5281dc3c10c

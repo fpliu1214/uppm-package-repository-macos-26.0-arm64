@@ -1,0 +1,5 @@
+summary: A command-line tool to translates a terminfo file from source format into compiled format
+webpage: https://www.gnu.org/software/ncurses
+version: 6.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/tic-6.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9577484dce5eebcfcb7dadc3aac578e45c5858a108fbe76433c4df2d3a4aebde

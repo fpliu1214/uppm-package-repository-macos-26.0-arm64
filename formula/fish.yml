@@ -1,0 +1,5 @@
+summary: A smart and user-friendly command line shell for Linux, macOS, and the rest of the family
+webpage: https://fishshell.com/
+version: 4.3.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/fish-4.3.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 39896b636be4d6ed0057f3c434b8ae1240aa35f06f767556ce5141051e4a4485

@@ -1,0 +1,5 @@
+summary: TIFF library
+webpage: https://libtiff.gitlab.io/libtiff
+version: 4.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libtiff-4.7.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: d61f14e24bdab2077a9b2ddf34fbc059bc821f21a09df2eda66a4bc61da2a5d2

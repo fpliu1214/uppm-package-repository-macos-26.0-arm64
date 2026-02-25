@@ -1,0 +1,5 @@
+summary: Find security issues in GitHub Actions setups
+webpage: https://docs.zizmor.sh/
+version: 1.22.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/zizmor-1.22.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: c85f25c0a0c4f89e486dd40548c1a749fa3aca123157fe1abe21912658019dc3

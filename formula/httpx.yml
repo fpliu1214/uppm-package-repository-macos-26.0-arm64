@@ -1,0 +1,5 @@
+summary: Fast and multi-purpose HTTP toolkit
+webpage: https://github.com/projectdiscovery/httpx/
+version: 1.8.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/httpx-1.8.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 185320f2201104338995d71aaf8fe190506b79b046027cf0246a6d9327d0806d

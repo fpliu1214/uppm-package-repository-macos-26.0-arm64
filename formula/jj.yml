@@ -1,0 +1,5 @@
+summary: A git-compatible distributed version control system
+webpage: https://github.com/jj-vcs/jj/
+version: 0.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/jj-0.37.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 90e24fb6b4839de3fdd8c5fc7347888a232aabc469544cc86b517be937c1804b

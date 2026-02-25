@@ -1,0 +1,5 @@
+summary: An open source library to extract data from Excel .xls files
+webpage: https://www.gaia-gis.it/fossil/freexl/index
+version: 2.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libfreexl-2.0.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: c0fef64cb3ceba7b36529cc2269bccf11f425a376786686a8b501ab837dc2e3a

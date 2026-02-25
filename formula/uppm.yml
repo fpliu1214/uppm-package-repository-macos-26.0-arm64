@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 2026.02.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/uppm-2026.02.23-MacOSX-26.0-arm64.tar.xz
+bin-sha: e1ec570f23b7ebff50257f8232e68ccedd0d60ac183b399270a54d476da2a53e

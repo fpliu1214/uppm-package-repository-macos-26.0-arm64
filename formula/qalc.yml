@@ -1,0 +1,5 @@
+summary: A powerful and easy to use command-line calculator
+webpage: https://qalculate.github.io/
+version: 5.9.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/qalc-5.9.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8be0ca8bd5b81d91f14c78963d535238a56e73d4e28e7d5a2b3d489841c4f8bc

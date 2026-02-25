@@ -1,0 +1,5 @@
+summary: A convenient unified display of the most relevant technical and tag data for video and audio files
+webpage: https://mediaarea.net/
+version: 25.10
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mediainfo-25.10-MacOSX-26.0-arm64.tar.xz
+bin-sha: 510d439ac8a3213fef7cbeb93c9ad94c13cda92a4b287573dac8167312c9e8bb

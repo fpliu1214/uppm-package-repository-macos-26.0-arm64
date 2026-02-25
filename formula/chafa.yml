@@ -1,0 +1,5 @@
+summary: A command-line utility to convert all kinds of images to ANSI/Unicode characters
+webpage: https://hpjansson.org/chafa/
+version: 1.18.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/chafa-1.18.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: ee301b9d255ba2c74f27f02e4d6076771cdd5111c5470ff350415af488b10e7c

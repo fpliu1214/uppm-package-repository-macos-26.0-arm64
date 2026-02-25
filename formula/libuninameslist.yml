@@ -1,0 +1,5 @@
+summary: Library of Unicode names and annotation data
+webpage: https://github.com/fontforge/libuninameslist/
+version: 20230916
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libuninameslist-20230916-MacOSX-26.0-arm64.tar.xz
+bin-sha: aa4b94fe5dd7d878dcaefb0bb37a7f1238ff209ce80fc9e3d53df17c6faaa4aa

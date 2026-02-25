@@ -1,0 +1,5 @@
+summary: Generic library support script
+webpage: https://www.gnu.org/software/libtool
+version: 2.5.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libtool-2.5.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: 30407dea69e66b6113e37230543f7efc6aac69b52aec46ce28ad7999f41f5795

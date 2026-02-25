@@ -1,0 +1,5 @@
+summary: Intuitive find & replace CLI
+webpage: https://github.com/chmln/sd/
+version: 1.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/sd-1.0.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: a1140d9e81702ed36a18121e47ea47e1bf01eeeaf180f1f55f5f8b4145db9bb7

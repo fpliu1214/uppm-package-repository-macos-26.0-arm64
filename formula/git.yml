@@ -1,0 +1,5 @@
+summary: A free and open source distributed version control system with speed and efficiency
+webpage: https://git-scm.com/
+version: 2.52.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/git-2.52.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 0cea9274af234aeaac15eed1cf478f2995fd836c908bb3bb883a2b85bcaebe0d

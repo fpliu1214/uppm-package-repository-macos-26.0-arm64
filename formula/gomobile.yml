@@ -1,0 +1,5 @@
+summary: A tool for building and running mobile apps written in Go
+webpage: https://github.com/golang/mobile
+version: 2026.02.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gomobile-2026.02.24-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7483744a078c7d2769ac998eccc036f0a2233d73ed927e8b1e35d36008b50a7a

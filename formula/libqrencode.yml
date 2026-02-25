@@ -1,0 +1,5 @@
+summary: QR Code generation library
+webpage: https://fukuchi.org/works/qrencode
+version: 4.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libqrencode-4.1.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9f5590f8a9a45d3c2689ac7582949892182b1944cd564854bbde49391b6f1f70

@@ -1,0 +1,5 @@
+summary: A lightweight concurrency framework for C++11
+webpage: https://github.com/Amanieu/asyncplusplus/
+version: 1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libasync++-1.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: ed704a8b64e9ab009d229791e188ef0752cb25a606bf91418524034259e27e07

@@ -1,0 +1,5 @@
+summary: A toolchain generator
+webpage: https://crosstool-ng.github.io
+version: 1.28.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/crosstool-ng-1.28.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 68579135322ae8c0e460fcca7782b277d2c6af39b8cfe371bf16641ee83ccf07

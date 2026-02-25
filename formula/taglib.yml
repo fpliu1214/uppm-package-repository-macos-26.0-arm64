@@ -1,0 +1,5 @@
+summary: A library for reading and editing the metadata of several popular audio formats
+webpage: https://taglib.org/
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/taglib-2.1.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8991035b873d83f632a3dc992b9003fcff35aa41d5a4325bec885475b644399e

@@ -1,0 +1,5 @@
+summary: Coreutils progress viewer
+webpage: https://github.com/Xfennec/progress/
+version: 0.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/progress-0.17-MacOSX-26.0-arm64.tar.xz
+bin-sha: aa136eb412d985ac2eefec4fcf4ced707d9b02f616143addca071513193c1686

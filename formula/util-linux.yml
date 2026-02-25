@@ -1,0 +1,5 @@
+summary: A collection of Linux utilities
+webpage: https://github.com/util-linux/util-linux
+version: 2.41.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/util-linux-2.41.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: de0ef05dad4d824aeac998db6309b6a8ba9453e7b8b45d28ca5cc3522f06e1c7

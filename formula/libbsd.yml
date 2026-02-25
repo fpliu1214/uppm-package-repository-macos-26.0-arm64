@@ -1,0 +1,5 @@
+summary: Utility functions from BSD systems
+webpage: https://libbsd.freedesktop.org/
+version: 0.12.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libbsd-0.12.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: c8df57f31c564124ce468a558b5dc24be80faf6c083d3386e4a838a0fb32e609

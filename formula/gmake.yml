@@ -1,0 +1,5 @@
+summary: Utility for directing compilation
+webpage: https://www.gnu.org/software/make
+version: 4.4.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gmake-4.4.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7d256551d89e1bac88db54c2948f106a42fc5d29ff22bac394942cf91b4888d0

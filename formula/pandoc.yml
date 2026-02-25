@@ -1,0 +1,5 @@
+summary: A universal document converter
+webpage: https://pandoc.org/
+version: 3.7.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pandoc-3.7.0.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 16050f745cbcc562ec66ddf8c41ba4e58c48f0ec2e40972073aa3152397321ee

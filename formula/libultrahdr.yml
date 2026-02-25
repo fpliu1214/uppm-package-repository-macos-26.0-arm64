@@ -1,0 +1,5 @@
+summary: Reference codec for the Ultra HDR format
+webpage: https://developer.android.com/media/platform/hdr-image-format
+version: 1.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libultrahdr-1.4.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: f792390287d39102323143d1a9fc990e2023b759f69fa53254aef9a80774e0bf

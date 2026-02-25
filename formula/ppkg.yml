@@ -1,0 +1,5 @@
+summary: A portable package manager for Unix-like systems
+webpage: https://github.com/leleliu008/ppkg
+version: 2026.02.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ppkg-2026.02.23-MacOSX-26.0-arm64.tar.xz
+bin-sha: 57a372cf9333eb865566dc4d41cf2bd02122f7d45ac53ca1d4053b57aa5a1568

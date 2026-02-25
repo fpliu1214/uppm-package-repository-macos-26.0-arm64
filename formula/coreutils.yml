@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/coreutils-9.9-MacOSX-26.0-arm64.tar.xz
+bin-sha: c9b4ff462f25006d9128c62f3851fc9ccf7c846ba6523764c1b73a2afb9dcdab

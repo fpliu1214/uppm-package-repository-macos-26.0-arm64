@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 4.2.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/cmake-4.2.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7ce5ae5fa03c41c277385e9574ce8dae1152d515acedcabefe8abfd5e2266ad5

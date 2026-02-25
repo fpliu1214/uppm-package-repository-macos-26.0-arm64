@@ -1,0 +1,5 @@
+summary: Find files with SQL-like queries
+webpage: https://github.com/jhspetersson/fselect/
+version: 0.9.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/fselect-0.9.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 06c5f198a8bbdee626bf45208e972b398562b0b3f238fa5e93e99b5fc7d4b8cf

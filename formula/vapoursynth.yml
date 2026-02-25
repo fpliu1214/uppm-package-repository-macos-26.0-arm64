@@ -1,0 +1,5 @@
+summary: Video processing framework with simplicity in mind
+webpage: https://www.vapoursynth.com
+version: 73
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/vapoursynth-73-MacOSX-26.0-arm64.tar.xz
+bin-sha: dd9b607fdbf7c2d7f21a790cc663760d2d58aea6702791e6bb5d9a22a1cc7b69

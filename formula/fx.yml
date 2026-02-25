@@ -1,0 +1,5 @@
+summary: Terminal JSON viewer
+webpage: https://fx.wtf
+version: 39.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/fx-39.2.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1f7ba5ae045a15e40fb05eb50805069164535ccbc31c18d2cbc704f5fb38ffe7

@@ -1,0 +1,5 @@
+summary: Anchor developer tools
+webpage: https://github.com/solana-foundation/anchor/
+version: 0.32.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/anchor-cli-0.32.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 75f587b1de6c39fe3bedc39a7c6c5af4f1825e7ecfdc2bcaeec4123c44661941

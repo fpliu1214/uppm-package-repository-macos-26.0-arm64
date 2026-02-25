@@ -1,0 +1,5 @@
+summary: Vi IMproved - enhanced vi editor
+webpage: https://www.vim.org/
+version: 9.1.2100
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/vim-9.1.2100-MacOSX-26.0-arm64.tar.xz
+bin-sha: 57b41a6bde36b838e2b3e685faae707a2b4f58a42b20506ad68fc62bd4ea9948

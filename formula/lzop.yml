@@ -1,0 +1,5 @@
+summary: A file compressor
+webpage: https://www.lzop.org/
+version: 1.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lzop-1.04-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8167431e8bac1168f1f39e7cef8b67ef897806027e98a646c0ab4a159e261a83

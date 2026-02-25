@@ -1,0 +1,5 @@
+summary: New way of working with Protocol Buffers
+webpage: https://github.com/bufbuild/buf/
+version: 1.64.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/buf-1.64.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 622e628bf0cf0c31223ecd56ba20e766980b7cca5d6105a2847e592bca98bf4c

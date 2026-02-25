@@ -1,0 +1,5 @@
+summary: Cryptographic and SSL/TLS library
+webpage: https://tls.mbed.org
+version: 3.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mbedtls-3.6.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 00827f33d08f843da82978b43b5faf601c9cbbb48d20ec26c6b09a6c54b7aa4e

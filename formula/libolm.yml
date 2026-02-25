@@ -1,0 +1,5 @@
+summary: An implementation of the Double Ratchet cryptographic ratchet
+webpage: https://github.com/matrix-org/olm
+version: 3.2.16
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libolm-3.2.16-MacOSX-26.0-arm64.tar.xz
+bin-sha: 4cf4a67bf9ef170f072ab8ac4feadb221fc40dc4d32d4f7bb3028ab631efcf87

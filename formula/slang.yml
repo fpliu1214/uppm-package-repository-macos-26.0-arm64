@@ -1,0 +1,5 @@
+summary: Library for creating multi-platform software
+webpage: https://www.jedsoft.org/slang/
+version: 2.3.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/slang-2.3.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 15249959e2b1e13847ea9a340cf6ccb36380f0fafdc51b77df231ae9ed263afa

@@ -1,0 +1,5 @@
+summary: C++ Common Libraries
+webpage: https://abseil.io
+version: 20250814.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/abseil-20250814.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8ba239849440b00f3842e90d07b9bdb1e86f6c017c15e7c5df22f549ba9b311e

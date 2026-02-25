@@ -1,0 +1,5 @@
+summary: Library for computing and verifying hash sums of files
+webpage: http://rhash.sourceforge.net
+version: 1.4.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/librhash-1.4.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: dcb7e72be2a30d5ce9441c29e470d68632b03c2e3e17768e76414267c8f5a32f

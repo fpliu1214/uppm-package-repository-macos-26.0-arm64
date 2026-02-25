@@ -1,0 +1,5 @@
+summary: BitTorrent library with a focus on high performance
+webpage: https://github.com/rakshasa/libtorrent/
+version: 0.16.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libtorrent-rakshasa-0.16.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: c6918818beff46d0d02ca96d000db675234aed80a09159a8911c03116fa706ef

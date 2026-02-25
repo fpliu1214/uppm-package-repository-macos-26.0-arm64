@@ -1,0 +1,5 @@
+summary: A fast and config-free text editor and IDE limited by VT100
+webpage: https://roboticoverlords.org/orbiton/
+version: 2.68.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/orbiton-2.68.9-MacOSX-26.0-arm64.tar.xz
+bin-sha: 80062f372bebb600778ee9ad278250323da500295d1a952d8b1b61a6817ae516

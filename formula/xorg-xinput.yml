@@ -1,0 +1,5 @@
+summary: Utility to configure and test X input devices
+webpage: https://gitlab.freedesktop.org/xorg/app/xinput
+version: 1.6.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xorg-xinput-1.6.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7c3118b0114134ba1a939f78416e43d84353cbbe0d9fdb6a92d59facc0cd72ba

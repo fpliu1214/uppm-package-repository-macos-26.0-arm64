@@ -1,0 +1,5 @@
+summary: BSD-style licensed readline alternative
+webpage: https://thrysoee.dk/editline
+version: 20251016.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libedit-20251016.3.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: b1edd01a14bf9e3cfc936a74771f37dc7a585edfd546ae4fc2d2d8a1fcecfb05

@@ -1,0 +1,5 @@
+summary: Rust toolchain installer
+webpage: https://github.com/rust-lang/rustup/
+version: 1.27.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/rustup-init-1.27.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9d04d6a714edcb71c76d4d71dc494c1d3917f577db0116b1ca8a5e5e537d4e3e

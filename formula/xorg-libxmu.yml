@@ -1,0 +1,5 @@
+summary: X.Org miscellaneous utility routines library
+webpage: https://www.x.org/
+version: 1.1.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xorg-libxmu-1.1.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2f1aa311f96662bb5d35aa919949c54f9f045e83c9c7a958ff53c85bc6a56313

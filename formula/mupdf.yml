@@ -1,0 +1,5 @@
+summary: Lightweight PDF and XPS viewer
+webpage: https://mupdf.com/
+version: 1.27.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mupdf-1.27.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 036724ee8a713feb56114cf737ba4b6b160c0536f718f3fb0adeb4e0392338c0

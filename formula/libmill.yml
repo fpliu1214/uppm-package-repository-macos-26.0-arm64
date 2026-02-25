@@ -1,0 +1,5 @@
+summary: Go-style concurrency in C
+webpage: https://github.com/sustrik/libmill
+version: 2026.02.24
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libmill-2026.02.24-MacOSX-26.0-arm64.tar.xz
+bin-sha: 52cedb5d0eb2d4d9af936ca973e81a5200f85629c2c3c2a6c0217a22237376a9

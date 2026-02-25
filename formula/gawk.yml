@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gawk-5.3.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: e0a5973e431b8c387f5363eea2262b93b444c030d08cd487f00a72842df46e9c

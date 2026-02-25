@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/openssl-dev-3.6.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 535bc954a5d8aa3ee8d17fca4dbe7906ff1d0358d2f9ca5a2088eab97182f962

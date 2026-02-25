@@ -1,0 +1,5 @@
+summary: Reimplementation of pkg-config
+webpage: http://pkgconf.org
+version: 2.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pkgconf-2.5.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 6545cce48daef38eacc2bce9a619a2c46b403072f22e5d2cc2923ae08776b5d6

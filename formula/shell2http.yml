@@ -1,0 +1,5 @@
+summary: Executing shell commands via HTTP server
+webpage: https://github.com/msoap/shell2http/
+version: 1.17.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/shell2http-1.17.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 17187fa75dcd85c3e3595fa4cfcd6a3fa3edfe6bf93ce0a11b80d9e1b74acba4

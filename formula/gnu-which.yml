@@ -1,0 +1,5 @@
+summary: GNU implementation of which utility
+webpage: https://carlowood.github.io/which/index.html
+version: 2.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gnu-which-2.23-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9618967fa235224295621f65769fc6386cf372db02b2459659c8c6af891ae95a

@@ -1,0 +1,5 @@
+summary: Keyboard configuration database for the X Window System
+webpage: https://www.freedesktop.org/wiki/Software/XKeyboardConfig/
+version: 2.46
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xkeyboard-config-2.46-MacOSX-26.0-arm64.tar.xz
+bin-sha: ea30554d07bbcddec9005c658cc2a87eb7b8fff4c07ebdf825648287b9745e50

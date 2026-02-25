@@ -1,0 +1,5 @@
+summary: A non-interactive scripting language interpreter like sh, but its syntax is quite different from a traditional shell syntax
+webpage: https://github.com/skarnet/execline/
+version: 2.9.6.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/execline-2.9.6.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 3c13757447ab6b3fce6b82151841839c7c1b7eeb11a6f69c43c6aea66595f6da

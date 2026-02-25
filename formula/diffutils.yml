@@ -1,0 +1,5 @@
+summary: A package of several programs related to finding differences between files
+webpage: https://www.gnu.org/software/diffutils
+version: 3.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/diffutils-3.12-MacOSX-26.0-arm64.tar.xz
+bin-sha: 842b1bfd7d26e3f95f6ad2608a98db6844e386479b6c2812e37410467cf2a6cd

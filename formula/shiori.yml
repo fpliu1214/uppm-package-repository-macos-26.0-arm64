@@ -1,0 +1,5 @@
+summary: Simple bookmark manager built with Go
+webpage: https://github.com/go-shiori/shiori/
+version: 1.8.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/shiori-1.8.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 625aec22ada2d332e431ef618af1409f8232163f9754076fee086167c8836985

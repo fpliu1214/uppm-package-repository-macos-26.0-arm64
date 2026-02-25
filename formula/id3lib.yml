@@ -1,0 +1,5 @@
+summary: An open-source library for manipulating ID3v1 and ID3v2 tags
+webpage: https://id3lib.sourceforge.io
+version: 3.8.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/id3lib-3.8.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 616c0659a9961c34e805c942c4fecae38d9a869aaf4f472e6b953aa9914a0731

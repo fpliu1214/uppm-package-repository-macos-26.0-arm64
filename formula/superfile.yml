@@ -1,0 +1,5 @@
+summary: Modern and pretty fancy file manager for the terminal
+webpage: https://github.com/yorukot/superfile/
+version: 1.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/superfile-1.5.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 57ff2b062f128e525c3609a1bf275b81a510a827218fbe49d707f54389a70669

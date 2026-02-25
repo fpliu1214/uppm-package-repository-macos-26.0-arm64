@@ -1,0 +1,5 @@
+summary: A better alternative to df(1)
+webpage: https://github.com/muesli/duf/
+version: 0.9.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/duf-0.9.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 533fe754263d70bae67e8d56b432713020d7914c084247d603da56136a0c46dd

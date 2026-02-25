@@ -1,0 +1,5 @@
+summary: Library to Instrument Executable Formats
+webpage: https://github.com/lief-project/LIEF/
+version: 0.17.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libLIEF-0.17.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 009f2e55c4360bac1d2265a909f3b20b52c79d6b4446901eedb6402634b4bc62

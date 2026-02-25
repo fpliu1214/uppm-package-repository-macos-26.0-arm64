@@ -1,0 +1,5 @@
+summary: DNS query and resolution tool
+webpage: https://github.com/projectdiscovery/dnsx/
+version: 1.2.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/dnsx-1.2.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: ab437abc20a5bc6556db7321cb45ffa3fdf6ffd2c41b143e84880f0c800818c4

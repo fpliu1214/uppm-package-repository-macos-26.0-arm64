@@ -1,0 +1,5 @@
+summary: Fly through your shell history
+webpage: https://github.com/cantino/mcfly/
+version: 0.9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mcfly-0.9.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8077904139c7c597ee5807ccb61d502d86c2d1a314cb5dff8a3522e43b036596

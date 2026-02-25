@@ -1,0 +1,5 @@
+summary: A package builder/manager for Xcode to build projects written in C, C++, Rust, Zig, Go, Haskell, etc
+webpage: https://github.com/leleliu008/xcpkg
+version: 2026.02.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xcpkg-2026.02.23-MacOSX-26.0-arm64.tar.xz
+bin-sha: c17bcdf01d91a1a9e31c4c6d0996194ce583a20d080854f324db7164e63951b7

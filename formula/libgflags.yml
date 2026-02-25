@@ -1,0 +1,5 @@
+summary: A C++ library for processing command-line flags
+webpage: https://gflags.github.io/gflags
+version: 2.2.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libgflags-2.2.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2dd2a16271d2379702a33b11fa117d830706fa796938407546a3e2be0d4624dc

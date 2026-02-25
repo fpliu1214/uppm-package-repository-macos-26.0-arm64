@@ -1,0 +1,5 @@
+summary: GNU internationalization (i18n) and localization (l10n) library
+webpage: https://www.gnu.org/software/gettext
+version: 0.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gettext-dev-0.26-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9dea896b58dbda7de7366a5fd909d5aa2ca781337403d983116dcd2f819e2e21

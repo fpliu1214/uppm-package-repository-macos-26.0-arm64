@@ -1,0 +1,5 @@
+summary: grpc plugins
+webpage: https://grpc.io
+version: 1.76.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/grpc-plugins-1.76.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: c39b5489be025ecf12f5d26912961f287f8ca77f338c337897fb74ba7cb5aa7f

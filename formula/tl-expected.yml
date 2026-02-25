@@ -1,0 +1,5 @@
+summary: C++11/14/17 std::expected with functional-style extensions
+webpage: https://tl.tartanllama.xyz/en/latest/
+version: 1.3.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/tl-expected-1.3.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 28b7147ae33fa5ff0753d658a55e0846b8d184fdef7bbb654c7e851c0608577f

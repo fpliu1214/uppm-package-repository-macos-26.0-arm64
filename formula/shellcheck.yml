@@ -1,0 +1,5 @@
+summary: A static analysis tool for shell scripts
+webpage: https://www.shellcheck.net/
+version: 0.10.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/shellcheck-0.10.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 5105d52036e5a9b639558ff811e79b95ad390fa9e216a21c9ae1f0f0697f5f7c

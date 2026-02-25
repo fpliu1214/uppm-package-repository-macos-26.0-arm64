@@ -1,0 +1,5 @@
+summary: Fast CSV toolkit written in Rust
+webpage: https://github.com/BurntSushi/xsv/
+version: 0.13.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xsv-0.13.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7b4f289a6f6d340ae4bfd48bd08e55848ae4d8ee7fe99125411526395b976eac

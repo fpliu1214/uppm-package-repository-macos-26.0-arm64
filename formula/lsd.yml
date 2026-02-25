@@ -1,0 +1,5 @@
+summary: A rewrite of GNU ls with lots of added features like colors, icons, tree-view, more formatting options, etc
+webpage: https://github.com/lsd-rs/lsd/
+version: 1.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lsd-1.2.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: eff43826ddd761400a35483846c66157c815829eb7349c8b97ee2f4f83389d29

@@ -1,0 +1,5 @@
+summary: C/C++ seam carving library
+webpage: https://liblqr.wikidot.com/
+version: 0.4.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/liblqr-0.4.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9a116f77b817afd3afefde8750d3199d7e12021077e705c1768837c8a86c133b

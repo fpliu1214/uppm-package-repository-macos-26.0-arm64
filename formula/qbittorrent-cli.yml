@@ -1,0 +1,5 @@
+summary: A command-line interface for qBittorrent written in Go
+webpage: https://github.com/ludviglundgren/qbittorrent-cli/
+version: 2.2.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/qbittorrent-cli-2.2.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 22a040940c96b6f89518da21c35b3162a4f1717375e85ff3c83deda069e34524

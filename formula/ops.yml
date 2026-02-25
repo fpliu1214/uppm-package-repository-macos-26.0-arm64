@@ -1,0 +1,5 @@
+summary: Build and Run Nanos Unikernels
+webpage: https://nanos.org/
+version: 0.1.42
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ops-0.1.42-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2bd9d432d50922d962f8de7098e96538c0418db1291c2187ee7f36b9ce43756a

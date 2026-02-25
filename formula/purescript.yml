@@ -1,0 +1,5 @@
+summary: A strongly-typed language meant to be compiled to JavaScript
+webpage: https://www.purescript.org/
+version: 0.15.15
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/purescript-0.15.15-MacOSX-26.0-arm64.tar.xz
+bin-sha: 733829a0dc8cc8e993a26b2a5557812c1c919476d30152319e4647307de4e68f

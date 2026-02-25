@@ -1,0 +1,5 @@
+summary: A massively parallel (multi-threaded) implementation of lzip, fully compatible with lzip 1.4 or newer
+webpage: https://www.nongnu.org/lzip/plzip.html
+version: 1.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/plzip-1.12-MacOSX-26.0-arm64.tar.xz
+bin-sha: c3def9214e15518a8206ffec91b245e5649bcebcf8f2106427a2b259df84a1d1

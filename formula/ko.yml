@@ -1,0 +1,5 @@
+summary: A simple, fast container image builder for Go applications
+webpage: https://ko.build
+version: 0.18.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ko-0.18.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1b381e9aa46461c9e0d025d10875bfec110d740f05bbd513e66620b2e0820554

@@ -1,0 +1,5 @@
+summary: Keyboard handling library
+webpage: https://xkbcommon.org/
+version: 1.13.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libxkbcommon-1.13.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: ed3c81c24c4f45975440acade604d623682986b53e5697dabaefd1fa138b885e
