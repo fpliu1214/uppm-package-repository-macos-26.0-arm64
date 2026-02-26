@@ -2,4 +2,4 @@ summary: Highly capable, feature-rich programming language
 webpage: https://www.perl.org/
 version: 5.42.0
 bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/perl-5.42.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: d4a9402955a5d30adc3b33a273325e96899d01c36c29e70c435a8540d160691a
+bin-sha: 6e9cbd57182b5e3428fd7571d0da256d8417b1c9b57a8062b948e7012ad922e5
