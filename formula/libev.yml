@@ -1,5 +1,5 @@
 summary: Asynchronous event library
 webpage: http://software.schmorp.de/pkg/libev.html
 version: 4.33
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libev-4.33-MacOSX-26.0-arm64.tar.xz
-bin-sha: b142354e83845525b99f9ed4cb870aeb5435fd206ddb334978a07c396a117a46
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libev-4.33-MacOSX-26.0-arm64.tar.xz
+bin-sha: 94078494ade8a9f2ea87ff598967ea674b09a6c4c68fe813dfab595a222e6fe6

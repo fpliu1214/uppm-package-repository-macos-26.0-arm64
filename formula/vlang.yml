@@ -1,0 +1,5 @@
+summary: V programming language compiler
+webpage: https://vlang.io
+version: 0.4.11
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/vlang-0.4.11-MacOSX-26.0-arm64.tar.xz
+bin-sha: 712c2f17c5fb3429b288ea5fe32351cabecb115a4bb2e34cfeda681e9ec4b2f0

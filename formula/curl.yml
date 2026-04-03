@@ -1,5 +1,5 @@
 summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
 webpage: https://curl.haxx.se/
 version: 8.18.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/curl-8.18.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 81b07ea9adbd66d6a7c8991e83ce687de3793a5c60bfd5aadc0c25cdeb670e2d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/curl-8.18.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 6e725af5ee890b35b11111f1a0d4742ac03be2537e45e2e23eed535795c70e95

@@ -1,5 +1,5 @@
 summary: A fast disk usage analyzer
 webpage: https://github.com/Byron/dua-cli/
 version: 2.33.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/dua-2.33.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1057c79157b15ad5b1ffd0cf62c23e6055fd3fe0175d4851f111c42165f0bd49
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/dua-2.33.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2c081d7bfedeba2f4524d9c3b00797e7d41ef7a34fa64d671e45bf4860123767

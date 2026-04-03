@@ -1,5 +1,5 @@
 summary: Package manager for PureScript based on package sets
 webpage: https://psc-package.readthedocs.io
 version: 0.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/psc-package-0.6.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: c06e095c497045e699656e1173e841b46be4e4748d19e3961f9e336eb336a4cf
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/psc-package-0.6.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 4ab0d9d8d27031279eb33792948976b804cb9d06027184c792ba9348e3eb0bba

@@ -1,5 +1,5 @@
 summary: A command-line tool to convert books written in Markdown to HTML, LaTeX/PDF and EPUB
 webpage: https://github.com/crowdagger/crowbook/
 version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/crowbook-0.17.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: e91214674cb2d08bef82e74a6dcaff1863031f8c7251222a228ae823dfaa447d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/crowbook-0.17.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: c4455826eaafd37116c827e523e402aac23a766b33e261a606c84a1e164783bb

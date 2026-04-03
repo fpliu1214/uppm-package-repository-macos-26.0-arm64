@@ -1,0 +1,5 @@
+summary: Formatting technology for Swift source code
+webpage: https://github.com/swiftlang/swift-format/
+version: 602.0.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/swift-format-602.0.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: feafc16f7ac9b580c83c50482a2842d02b16e569b98d44879248eb39f27d703e

@@ -1,5 +1,5 @@
 summary: A user-mode networking library used by virtual machines, containers or various tools
 webpage: https://gitlab.freedesktop.org/slirp/libslirp
 version: 4.9.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libslirp-4.9.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 06a4f3604b91ee16d9099c8e72fbeddf8e46c3ab5cafc79775ab4579272f8308
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libslirp-4.9.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: e5509e64ec7860b900ae13907423aa4f1c3bf7695c1d16731e5f754aaebf34c8

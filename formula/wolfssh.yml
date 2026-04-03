@@ -1,5 +1,5 @@
 summary: A small, fast, portable SSH implementation, including support for SCP and SFTP
 webpage: https://github.com/wolfSSL/wolfssh/
 version: 1.4.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/wolfssh-1.4.20-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1942d968d82afca73d16376351926f42dc4bf9b7a467a5c886164b1ba72f20ee
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/wolfssh-1.4.20-MacOSX-26.0-arm64.tar.xz
+bin-sha: e1c6703a5f5a8b0b8788d251b6c1d709056fb7e276455ca0ac8a0743c132a431

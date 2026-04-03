@@ -1,5 +1,5 @@
 summary: High quality, portable, open source libm implementation
 webpage: https://openlibm.org
 version: 0.8.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/openlibm-0.8.7-MacOSX-26.0-arm64.tar.xz
-bin-sha: 253819a7a565769165f9859e58606190a30e690892d1dd79654418670362201d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/openlibm-0.8.7-MacOSX-26.0-arm64.tar.xz
+bin-sha: b37747cb9f8b7580a57f34be4e9c40cbbfb4814dbb64dae972eb6817e4737f74

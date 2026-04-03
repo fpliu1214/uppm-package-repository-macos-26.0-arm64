@@ -1,5 +1,5 @@
 summary: A parser generator tool
 webpage: https://tree-sitter.github.io/
-version: 0.26.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/tree-sitter-0.26.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7242dc1a97b0733392db7e65a5ce02a06d4613bc0dd8701b0677c4f8b49cdff6
+version: 0.26.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/tree-sitter-0.26.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: fe93f499058d70fdcbcd9a9435a57c601e89c398d5dfaf9d34b14e24cfb20218

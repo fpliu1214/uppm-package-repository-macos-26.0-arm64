@@ -1,5 +1,5 @@
 summary: A JSON parser for C
 webpage: https://github.com/json-c/json-c/
 version: 0.18.20240915
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libjson-c-0.18.20240915-MacOSX-26.0-arm64.tar.xz
-bin-sha: 08e18972ef37e6670eabb09b4a6c7adb6f8d25ddafcc81612dde84cb9700a0ed
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libjson-c-0.18.20240915-MacOSX-26.0-arm64.tar.xz
+bin-sha: a6bbd42d8a5ae463b501efcb3b5463e87dc66cd9f8df2b27ac28377388f2941b

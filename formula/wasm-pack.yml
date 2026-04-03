@@ -1,0 +1,5 @@
+summary: Your favorite rust -> wasm workflow tool
+webpage: https://rustwasm.github.io/wasm-pack/
+version: 0.14.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/wasm-pack-0.14.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9ba5c7a1ce3dbed90355595f292319f2a351e79b696690bbf14fc81806537a73

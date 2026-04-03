@@ -1,5 +1,5 @@
 summary: Library to provide abstract access to various archives
 webpage: https://icculus.org/physfs/
 version: 3.2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libphysfs-3.2.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2c784dcce313324addcd099512c070cb65b5e76f83f058702029bc9a22bd23d5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libphysfs-3.2.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 77f83321a6705c39fbab4923c8003be9f182e01d6692d7b01df02d81d04d237d

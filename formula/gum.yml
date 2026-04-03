@@ -1,5 +1,5 @@
 summary: A tool for glamorous shell scripts
 webpage: https://github.com/charmbracelet/gum/
 version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gum-0.17.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 875a573e643089a7890d3f84f1df1724587d403caa638ab5f8d099f960aef68f
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/gum-0.17.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: ce035c282aded8fcb59298dc6fa80d20cf0141f30a00de8672a186ffab5a8791

@@ -1,5 +1,5 @@
 summary: A collections of easy to use command-line utilities
 webpage: https://github.com/leleliu008/C-examples
-version: 2026.02.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/easyutils-2026.02.24-MacOSX-26.0-arm64.tar.xz
-bin-sha: 38c8486943df96cf4215bdec145cccc7a0cbd4d9e705ddb07ef98f71c888b890
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/easyutils-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: 49c28a28127d67232b11e6e14cd227e9a04ffa93a5328eb8478f8a205277849d

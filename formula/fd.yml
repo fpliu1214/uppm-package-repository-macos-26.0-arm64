@@ -1,5 +1,5 @@
 summary: A simple, fast and user-friendly alternative to find(1)
 webpage: https://github.com/sharkdp/fd/
 version: 10.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/fd-10.3.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: e7067de2f26e9cd2bab8b1c75b226c29464afba9817a7010daa764cd4ed1fc43
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/fd-10.3.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 91e21c67d0cef18b80d6762dc2d5325a7c40d459091874e1cf4634c9547bb3ed

@@ -1,0 +1,5 @@
+summary: VP8/VP9 video codec
+webpage: https://chromium.googlesource.com/webm/libvpx
+version: 1.16.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libvpx-1.16.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 3a95146645fd185f3a45dcb5fd2e25dec72a57af3574e0f67ae2b68b470796a5

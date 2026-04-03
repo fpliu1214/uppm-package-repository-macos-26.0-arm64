@@ -1,0 +1,5 @@
+summary: X.org X Present Extension library
+webpage: https://www.x.org/
+version: 1.0.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libxpresent-1.0.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: e0faf6d5c0fc92ce197268bc3bfac1b88eb08b9b63cb8e662516f60e321dd4d0

@@ -1,5 +1,5 @@
 summary: Netwide Assembler (NASM) is an 80x86 assembler
 webpage: https://www.nasm.us
 version: 3.01
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/nasm-3.01-MacOSX-26.0-arm64.tar.xz
-bin-sha: a136fd759659433c8f0b7a3a3319692d3a35ddc3869cc3c8af03a63d424a330c
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/nasm-3.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: a11166f036a53d90101a24ae1cbe2a340a2cbd3c6022162ba28c93be117543f9

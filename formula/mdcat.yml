@@ -1,5 +1,5 @@
 summary: Show markdown documents on text terminals
 webpage: https://github.com/swsnr/mdcat/
 version: 2.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mdcat-2.7.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 77732b56b7d1553468afaeaa0e44109db4da969e9517fac1a4ad0326718f33b7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/mdcat-2.7.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 0bece6ffde93d373a6546ddf6b815d12baaee20d4850d8ae121ab537799eed6e

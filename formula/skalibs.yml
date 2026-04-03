@@ -1,5 +1,5 @@
 summary: A set of general-purpose C programming libraries for skarnet.org softwares
 webpage: https://skarnet.org/software/skalibs/
-version: 2.14.3.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/skalibs-2.14.3.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: ea7190b1683a63f7765deba8799d069d9ccc0fafd10c0592346b432453c3d1f5
+version: 2.14.5.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/skalibs-2.14.5.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 5e4022d1285a1ac1dc9b4acb14df8a67ec10450b745dee1b3e3529a1e8cd8f3c

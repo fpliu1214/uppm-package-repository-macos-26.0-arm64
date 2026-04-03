@@ -1,5 +1,5 @@
 summary: Print info and check PNG, JNG, and MNG files
 webpage: https://www.libpng.org/pub/png/apps/pngcheck.html
 version: 3.0.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pngsplit-3.0.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 19dfb5c55c4ccd9e6343326017c298219958e95871e62b7664faf6067d6d8bda
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pngsplit-3.0.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: f225ebcfa551922577baa6c9d7275277b2b51ff78008e5cd698e73f5b1fe0453

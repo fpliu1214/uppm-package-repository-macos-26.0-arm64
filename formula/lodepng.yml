@@ -1,5 +1,5 @@
 summary: PNG encoder and decoder in C and C++
 webpage: https://github.com/lvandeve/lodepng
-version: 2026.02.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lodepng-2026.02.23-MacOSX-26.0-arm64.tar.xz
-bin-sha: 3c67028144bc60813c246b5b051895d95a6c41863bc0852a265621eefb10896e
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/lodepng-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: ca051c6d18fc826f7ce9579cd20ff771764d697eab338290b8603868fbb74471

@@ -1,5 +1,5 @@
 summary: Create and view interactive cheat sheets for *nix commands
 webpage: https://github.com/cheat/cheat/
 version: 4.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/cheat-4.4.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 33ef44721a7cfced32382cee296fe1b0f95ee7c8c19aca6c0d62b0c9c0660ef1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/cheat-4.4.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 6bba8581630390ac66450bea7ce1b8c51946a69f6be041d9ea4692f86a1247d3

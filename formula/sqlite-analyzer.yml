@@ -1,5 +1,5 @@
 summary: A command-line tool to analyze how space is allocated inside an SQLite file
 webpage: https://www.sqlite.org/
 version: 3.51.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/sqlite-analyzer-3.51.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 063927f017adaf773bced9fbce9ac1a5f170dcb2970899a1da4a1405fffb993a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/sqlite-analyzer-3.51.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 71f1a2f754bdc592ee2db2e6d085067738abf0ae778b32d5e7d88ad1b2540ac6

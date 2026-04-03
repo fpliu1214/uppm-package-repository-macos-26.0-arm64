@@ -1,5 +1,5 @@
 summary: flock(1) locks files
 webpage: https://github.com/discoteq/flock/
 version: 0.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/flock-0.4.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 9b5179a2705d2bc57893d98cddc3259208853049af25839712b89779c7ebf349
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/flock-0.4.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 428ea10ef8af7735a815f2c944e32943ea8e96f638e14e111790da94b0f17bc1

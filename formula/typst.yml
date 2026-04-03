@@ -1,0 +1,5 @@
+summary: Markup-based typesetting system
+webpage: https://typst.app/
+version: 0.14.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/typst-0.14.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: b6b9232a274e80846809bb297dcc438fe83bc348a69b5905d5d980a6e1f3d6ee

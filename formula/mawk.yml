@@ -1,5 +1,5 @@
 summary: Interpreter for the AWK Programming Language
 webpage: https://invisible-island.net/mawk/
 version: 1.3.4.20250131
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mawk-1.3.4.20250131-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7d490a08bc48cefbcbfcc75b9b32db99e4ce89b40c3337b7a086545e8fcca963
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/mawk-1.3.4.20250131-MacOSX-26.0-arm64.tar.xz
+bin-sha: 6407fe3e2d154284c47d8929257587ba5d2778cc4793bc4e51de478b34d91066

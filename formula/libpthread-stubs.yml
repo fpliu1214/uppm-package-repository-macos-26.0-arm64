@@ -1,0 +1,5 @@
+summary: X.Org pthread-stubs.pc
+webpage: https://www.x.org/
+version: 0.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libpthread-stubs-0.5-MacOSX-26.0-arm64.tar.xz
+bin-sha: a605aae2fca3c8996789d571db666cd2d2dc68348299c04212f7cb93b5c91458

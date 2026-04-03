@@ -1,5 +1,5 @@
 summary: A collection of tools for glib
 webpage: https://developer.gnome.org/glib
 version: 2.86.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/glib-tools-2.86.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: bfa7a91462caa9421e7e8f354925072fc0d648d650728f126c0c795c9083b5eb
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/glib-tools-2.86.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: a5f575267ea431d44bbe9d9e0993681f5e9634dfc5280630165a3c055fb5b2f6

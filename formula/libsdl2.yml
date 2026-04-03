@@ -1,0 +1,5 @@
+summary: Low-level access to audio, keyboard, mouse, joystick and graphics
+webpage: https://www.libsdl.org/
+version: 2.32.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libsdl2-2.32.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 147eb3c1fa07ac1ddc4279a94c8d1193a1fab52164e17ffa82742114f17576e7

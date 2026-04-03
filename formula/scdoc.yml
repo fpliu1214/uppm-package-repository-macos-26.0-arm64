@@ -1,5 +1,5 @@
 summary: A small man page generator
 webpage: https://sr.ht/~sircmpwn/scdoc/
 version: 1.11.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/scdoc-1.11.4-MacOSX-26.0-arm64.tar.xz
-bin-sha: 4ada8c6f2c1b74503016cc87f51a4178ead6153833e5e11e12ab4246ca267425
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/scdoc-1.11.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: 15694a8f53c3cbb3728b746447d1209759c0ee435932c266bdc101569d66d414

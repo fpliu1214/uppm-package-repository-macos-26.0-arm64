@@ -1,5 +1,5 @@
 summary: QUIC library written in C
 webpage: https://github.com/ngtcp2/ngtcp2/
 version: 1.20.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ngtcp2-1.20.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 97ffc0524cf6f37465f25291091f59c62f426bdb6238d878e615380491e1eb47
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/ngtcp2-1.20.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 4f35931d0a8d7b295672636e844257136efbc22885a0f6f9debe1ddc07a63486

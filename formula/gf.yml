@@ -1,5 +1,5 @@
 summary: App development framework of Golang
 webpage: https://goframe.org
-version: 2.9.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gf-2.9.8-MacOSX-26.0-arm64.tar.xz
-bin-sha: 79ef091f9306301e248af1c7f04a1ffa4719afc735c372e480702b6bd2595147
+version: 2.10.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/gf-2.10.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 110a34ff9c1bbb7dd6d86c04d14becc3b6236a567dc5bc115e687af94a717da8

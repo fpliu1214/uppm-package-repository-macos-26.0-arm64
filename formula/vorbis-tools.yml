@@ -1,5 +1,5 @@
 summary: Ogg Vorbis CODEC tools
 webpage: https://github.com/xiph/vorbis-tools
 version: 1.4.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/vorbis-tools-1.4.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 0d20b0c8b63c243d46482f6c480c24f4c277d4fa0638a81d3e5316d70e804fd5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/vorbis-tools-1.4.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: ca6a93cbb4a79eb1109920ec2ba4da59ca66475274cd272b60c09030cbd96ec5

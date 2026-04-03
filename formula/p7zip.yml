@@ -1,5 +1,5 @@
 summary: 7-Zip (high compression file archiver) implementation
 webpage: https://github.com/p7zip-project/p7zip/
 version: 17.05
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/p7zip-17.05-MacOSX-26.0-arm64.tar.xz
-bin-sha: 84dd9c62d0ada3a8b1a03744233a01e603419a6aea7a154002c9173f3d1eeab4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/p7zip-17.05-MacOSX-26.0-arm64.tar.xz
+bin-sha: e112a9e9eb4ebb0080acf5331bc783b29b36c570670d7876d398bb86926390ed

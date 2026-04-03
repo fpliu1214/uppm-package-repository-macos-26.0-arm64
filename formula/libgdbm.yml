@@ -1,5 +1,5 @@
 summary: GNU database manager
 webpage: https://www.gnu.org/software/gdbm
 version: 1.26
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libgdbm-1.26-MacOSX-26.0-arm64.tar.xz
-bin-sha: 5e2ccff2088f89d708c4bd06d58e32902de9b6e331408f4b226d58d3ac2c2065
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libgdbm-1.26-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1eee9d8e376a2c8b8babaee0d93c045c00c6418ab44a34e0c06a65b90c02e854

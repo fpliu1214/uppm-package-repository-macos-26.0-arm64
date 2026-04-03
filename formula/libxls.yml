@@ -1,0 +1,5 @@
+summary: Read binary Excel files from C/C++
+webpage: https://github.com/libxls/libxls/
+version: 1.6.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libxls-1.6.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 0fd99a485aed780239cac1fdc9ca47735ee432b2bc34f0c5848e9d1d6ce3d318

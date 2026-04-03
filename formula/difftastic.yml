@@ -1,5 +1,5 @@
 summary: A structural diff tool that compares files based on their syntax
 webpage: https://github.com/Wilfred/difftastic/
 version: 0.67.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/difftastic-0.67.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2e2e8e506c5e84049611f6a170717a3a73b013c263d02f5093282a27a1db3a0d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/difftastic-0.67.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: bf0b0f67c1bdec2980754a4c7278f04cab4b6ac505360a09cd0a2c8135870272

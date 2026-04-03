@@ -1,5 +1,5 @@
 summary: Portable version of NetBSD make(1)
 webpage: https://www.crufty.net/help/sjg/bmake.html
 version: 20251111
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/bmake-20251111-MacOSX-26.0-arm64.tar.xz
-bin-sha: f80fb7ee8780345c43336f954c9f85f1eba68993474d013a9af33a763d6225b7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/bmake-20251111-MacOSX-26.0-arm64.tar.xz
+bin-sha: 135a3539b9d8cc5238abac094e8b70aba1020f662375dc5302b3356cd6d33cc6

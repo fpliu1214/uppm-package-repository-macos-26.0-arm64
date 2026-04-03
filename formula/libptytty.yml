@@ -1,5 +1,5 @@
 summary: Library for OS-independent pseudo-TTY management
 webpage: https://software.schmorp.de/pkg/libptytty.html
 version: 2.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libptytty-2.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 0498bb4d5c40e92f8e11fcab199c9d69fb80b738160c125160b76e7025342eba
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libptytty-2.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 135066052ddfaa9e97e922003ddc5854aea271077e25cc9b6a5f7b7d6c61b865

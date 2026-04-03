@@ -1,0 +1,5 @@
+summary: A command-line tool for formatting Swift code
+webpage: https://github.com/nicklockwood/SwiftFormat/
+version: 0.60.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/swiftformat-0.60.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7908bcd41d79cd1198c3012d8d9bfbbbc0ab0cbb783b281ae6f9269f77e17a30

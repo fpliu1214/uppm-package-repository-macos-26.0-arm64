@@ -1,5 +1,5 @@
 summary: Graphics library to dynamically manipulate images
 webpage: https://libgd.github.io/
 version: 2.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libgd-2.3.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 36410942a41ef49c6caf689d591afcd0e11ffbb5c1397d2d02fd8afb5e749d93
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libgd-2.3.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 5fa3c6d6b43e84eb8449632c8562774a9cd853151dde1e761bbcdc181fe6eeec

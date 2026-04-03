@@ -1,0 +1,5 @@
+summary: Vulkan Header files and API registry
+webpage: https://github.com/KhronosGroup/Vulkan-Headers/
+version: 1.4.326
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/vulkan-headers-1.4.326-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7dede6bb155a47dbf8670585e724e47e0af4bada441395adf4c900aec75f9e5e

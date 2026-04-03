@@ -1,5 +1,5 @@
 summary: A meta-build system for generating build files for ninja
 webpage: https://gn.googlesource.com/gn
-version: 2026.02.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gn-2026.02.24-MacOSX-26.0-arm64.tar.xz
-bin-sha: e422fa46a1fc9f95ca0b0b82a80e456eef5d93cc693853ed7bb224adb0603c8e
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/gn-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: 96687c05ff885f0437575938c2ce0084707274e873ff91498c137ac555e354ef

@@ -1,5 +1,5 @@
 summary: Implementation of the DNS protocols
 webpage: https://www.isc.org/downloads/bind
 version: 9.20.18
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/bind-9.20.18-MacOSX-26.0-arm64.tar.xz
-bin-sha: a81eefec12870c764d64a6c9939395e6c315d1a301892b46832924ef44adcacc
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/bind-9.20.18-MacOSX-26.0-arm64.tar.xz
+bin-sha: b4b0e0900bf056b4d35762327ce4027c42ff68edd1dd54da03345a31544cc38a

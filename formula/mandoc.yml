@@ -1,5 +1,5 @@
 summary: UNIX manpage compiler toolset
 webpage: https://mandoc.bsd.lv/
 version: 1.14.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/mandoc-1.14.6-MacOSX-26.0-arm64.tar.xz
-bin-sha: b1b7a659d74c85293bb4d49f1d699eb6056fb0a7c765c3401b5dda8aa165e059
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/mandoc-1.14.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: 4013100dbc72cb770a682c80f4c0ef580a7ab77569f3ffcbf0f34460e98b0f45

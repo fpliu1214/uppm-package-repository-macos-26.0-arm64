@@ -1,5 +1,5 @@
 summary: Extremely fast non-cryptographic hash algorithm
 webpage: https://github.com/Cyan4973/xxHash/
 version: 0.8.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/xxhash-0.8.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 24fc32604cdedb3082e32bb14890b1187a38024fc7ccc9b8c0623d3920507240
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/xxhash-0.8.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: c3263c3da7264e325f590352f29728ed56790f2e5b9ece2c1faacb4862987c38

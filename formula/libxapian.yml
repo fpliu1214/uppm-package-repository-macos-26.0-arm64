@@ -1,5 +1,5 @@
 summary: C++ search engine library
 webpage: https://xapian.org/
-version: 1.4.30
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libxapian-1.4.30-MacOSX-26.0-arm64.tar.xz
-bin-sha: a442179338d5a921d6a15e68f181ae2381f79c51b495c66dff4167b9f240262f
+version: 1.4.31
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libxapian-1.4.31-MacOSX-26.0-arm64.tar.xz
+bin-sha: b7f935901acdc718f77f9fd2abebdb2f4c217421f734dab237086b16be54e996

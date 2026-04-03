@@ -1,5 +1,5 @@
 summary: Print info and check PNG, JNG, and MNG files
 webpage: http://www.libpng.org/pub/png/apps/pngcheck.html
 version: 4.0.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pngcheck-4.0.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: b4355adba708bb27f21fe34272bd0fa53ee46c08ea49c1d25c11e2434d660e4c
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pngcheck-4.0.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 55d370bedf57b9cf0b7f7301ce56736374315329e794d54a4e4fca0de57d7044

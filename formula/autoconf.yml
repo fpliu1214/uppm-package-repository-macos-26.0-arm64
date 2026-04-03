@@ -1,5 +1,5 @@
 summary: Automatic configure script builder
 webpage: https://www.gnu.org/software/autoconf
 version: 2.72
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/autoconf-2.72-MacOSX-26.0-arm64.tar.xz
-bin-sha: 572b9003480a9673d9b0c59234cd5b74f131c2756af0553889ac09124f607458
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/autoconf-2.72-MacOSX-26.0-arm64.tar.xz
+bin-sha: ebeb2eeec7c6a48bcd97195b693c1c6e2fef119d5ebf5f5ed8943a8b0316d9b8

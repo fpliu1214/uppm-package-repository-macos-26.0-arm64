@@ -1,0 +1,5 @@
+summary: Vulkan ICD Loader
+webpage: https://github.com/KhronosGroup/Vulkan-Loader
+version: 1.4.326
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/vulkan-loader-1.4.326-MacOSX-26.0-arm64.tar.xz
+bin-sha: 57fabe565fa5c92f9109546c47a39255e108e64b7d10715d0c9ff6f6e2135292

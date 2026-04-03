@@ -1,5 +1,5 @@
 summary: Header-only general purpose library
 webpage: https://github.com/redcode/Zeta
-version: 2026.02.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/zeta-2026.02.23-MacOSX-26.0-arm64.tar.xz
-bin-sha: 8f4ec1fe9e8997bb2b9e2440aae33ba7a388f100e294e2981363e182af46f714
+version: 2026.03.31
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/zeta-2026.03.31-MacOSX-26.0-arm64.tar.xz
+bin-sha: d4e0aa09eaaf5963609830b9be7f20dab4fb0a1d150950d2d8af7cbcf9317f04

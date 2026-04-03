@@ -1,0 +1,5 @@
+summary: Command-line XML and HTML beautifier and content extractor
+webpage: https://github.com/sibprogrammer/xq/
+version: 1.4.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/xq-1.4.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7ae51bc7c01a4fe0e28116cbb3db943403cbf1849c7197c29b3d0641c6a4f46b

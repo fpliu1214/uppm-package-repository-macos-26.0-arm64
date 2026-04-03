@@ -1,5 +1,5 @@
 summary: A command-line tool to generate call graphs from C code
-webpage: https://www.gnu.org/software/cflow/
+webpage: https://www.gnu.org/software/cflow
 version: 1.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/cflow-1.8-MacOSX-26.0-arm64.tar.xz
-bin-sha: 001f35daec467196cefbbba75197efbb61bb18fc35fc1ec84d16dd4a2a8689c8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/cflow-1.8-MacOSX-26.0-arm64.tar.xz
+bin-sha: 137700cbbce3e1bfc0eb4ef578a6fc00869e961d30adceb635bcec61e6cb9a8f

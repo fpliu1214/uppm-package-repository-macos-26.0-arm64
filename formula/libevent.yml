@@ -1,5 +1,5 @@
 summary: Asynchronous event library
 webpage: https://libevent.org/
 version: 2.1.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libevent-2.1.12-MacOSX-26.0-arm64.tar.xz
-bin-sha: 685a760d213749d36351842fd54da2b2831a78151ce33c6c1fd554ad19547b91
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libevent-2.1.12-MacOSX-26.0-arm64.tar.xz
+bin-sha: 5faba0f79c1ff2b9ad6642c3c4ad36e545db63069d2fe2f10bd044957a38dd29

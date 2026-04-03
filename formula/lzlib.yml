@@ -1,5 +1,5 @@
 summary: Data compression library
 webpage: https://www.nongnu.org/lzip/lzlib.html
 version: 1.15
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lzlib-1.15-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1cc82207f63b17de7c24a60d59e9e5f6e4e511fc1248cb4496f678bb8f6ca9bc
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/lzlib-1.15-MacOSX-26.0-arm64.tar.xz
+bin-sha: 073c17fcd8767dc6285149e6bdf692a9113923b523a1d242ae2d3888730835df

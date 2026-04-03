@@ -1,0 +1,5 @@
+summary: A Swift toolchain installer and manager
+webpage: https://github.com/swiftlang/swiftly/
+version: 1.1.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/swiftly-1.1.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 82bd8674d5ec0d126ed1b4af98c01e11728856b0ca652ac7f3207296dba8d2d6

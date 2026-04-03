@@ -1,0 +1,5 @@
+summary: Libraries for security-enabled client and server applications
+webpage: https://firefox-source-docs.mozilla.org/security/nss/index.html
+version: 3.115.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libnss-3.115.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2c06c8e9fd674abfd061621c2e563e5d677c90d500b799cc0b3c4b8fbd114ed6

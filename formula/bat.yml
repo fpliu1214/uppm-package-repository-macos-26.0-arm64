@@ -1,5 +1,5 @@
 summary: Clone of cat(1) with syntax highlighting and Git integration
 webpage: https://github.com/sharkdp/bat/
 version: 0.26.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/bat-0.26.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 02d39fe02068c233d19fb0636753c38dbed15c0e7359310a2779b4ad16d7fda0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/bat-0.26.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 90260a9d61628633b82c062379f451c14caa48e68f1135248a45826fdc8a1444

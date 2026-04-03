@@ -1,5 +1,5 @@
 summary: Ethernet compliant virtual network
 webpage: https://github.com/virtualsquare/vde-2/
 version: 2.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/vde-2.3.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 6c7b8737cf68540186ac637c31441b81cfcee72a6ea0ba64c20534d80a9a9c72
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/vde-2.3.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 870bef19f3fd9ff26a2021d156762a0aaa3f8b9a1625a84b5594d4408c9ff4e0

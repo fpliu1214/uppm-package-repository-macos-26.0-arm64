@@ -1,5 +1,5 @@
 summary: Upload multiple artifacts to GitHub Release in parallel
 webpage: https://tcnksm.github.io/ghr
 version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ghr-0.17.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 8e55bca065a0e49920df7827aede65ed980eb6c2e603c354cb69a5872f6f297d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/ghr-0.17.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2f6617cf0bacb0b49d9c70dcf8fc03e698d1b795c4ba3a02d95810309f22212d

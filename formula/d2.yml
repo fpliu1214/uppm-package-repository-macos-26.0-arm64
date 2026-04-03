@@ -1,5 +1,5 @@
 summary: A modern diagram scripting language that turns text to diagrams
 webpage: https://github.com/terrastruct/d2/
 version: 0.7.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/d2-0.7.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7a4bc3673f1acc42daa5c816862278d82667c723fdda71bda396e06087696088
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/d2-0.7.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9e48bae4fb0d677faf3a1183c5b324f4c5fdd11afe9a99c59254ed08f233e4f2

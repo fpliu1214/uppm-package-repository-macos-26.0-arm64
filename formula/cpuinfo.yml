@@ -1,5 +1,5 @@
 summary: CPU INFOrmation library
 webpage: https://github.com/pytorch/cpuinfo
-version: 2026.02.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/cpuinfo-2026.02.24-MacOSX-26.0-arm64.tar.xz
-bin-sha: d5ac2d22de386df1640bc130ee7c7ca16e094c8cc402db5c0dc41a7466cb581f
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/cpuinfo-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: cec33104176acbb8f711a28e67dfa96a5aba118bb87e731f2dd7b29ff990511f

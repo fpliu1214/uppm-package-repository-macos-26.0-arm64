@@ -1,5 +1,5 @@
 summary: A free cross-platform Open Source C++ library that uses freetype2 to simplify rendering fonts in OpenGL applications
 webpage: https://sourceforge.net/projects/ftgl/
 version: 2.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libftgl-2.4.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1336455a0a5ef4b624e42b2aa167aa7bf87cb4080006f996fd1fe5261820c539
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libftgl-2.4.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9874e7a9702ae514f022c31b673d542aa6d6bf78b647d1b44f766063be1ff562

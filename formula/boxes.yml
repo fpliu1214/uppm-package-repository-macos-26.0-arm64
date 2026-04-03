@@ -1,5 +1,5 @@
 summary: Draw boxes around text
 webpage: https://boxes.thomasjensen.com/
 version: 2.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/boxes-2.3.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: b3f1c5bd68588b4b99140ac535cde391061524e2a8dce6ea8baec9bec69ca3c0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/boxes-2.3.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 40a88ac2370eba6299342b70c03fad40913051abfe830f8bae4dc72243c33913

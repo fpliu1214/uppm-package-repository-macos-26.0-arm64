@@ -1,5 +1,5 @@
 summary: Compiler infrastructure and toolchain library for WebAssembly
 webpage: https://webassembly.org/
 version: 125
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/binaryen-125-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2971b51928edaf75468ee927e1455d9c6be36c838099b061805294d016491765
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/binaryen-125-MacOSX-26.0-arm64.tar.xz
+bin-sha: c98d39c8625b1b0467f0c05ecd8e387b0bbb008bc56c1f6d3dbbb55eb73589e3

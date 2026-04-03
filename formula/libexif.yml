@@ -1,5 +1,5 @@
 summary: EXIF parsing library
 webpage: https://libexif.github.io
 version: 0.6.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libexif-0.6.25-MacOSX-26.0-arm64.tar.xz
-bin-sha: e45de44c270391cb32ad6edd562d8b5740c6b1bcb52a78aef32d22317f7d3b68
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libexif-0.6.25-MacOSX-26.0-arm64.tar.xz
+bin-sha: 29c5f9ce9c517f9224c09d0957b921682b47b4b96eed5fe69e5cd837239bbc9b

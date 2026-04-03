@@ -1,5 +1,5 @@
 summary: A header only C++ library that implements RFC6455 The WebSocket Protocol
 webpage: https://www.zaphoyd.com/projects/websocketpp/
 version: 0.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/websocketpp-0.8.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7e5968b7c0d3d182f7ddd85e0466c22a8087f79eecda54dfe9a27fa404b27324
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/websocketpp-0.8.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 598222ccc661e9f8ce692743ba7e30e6d38b21cbc2a3de4f1b5c609cb121eba5

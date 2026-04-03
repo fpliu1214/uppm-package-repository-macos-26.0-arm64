@@ -1,0 +1,5 @@
+summary: Access X11 clipboards from the command-line
+webpage: https://github.com/astrand/xclip/
+version: 0.13
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/xclip-0.13-MacOSX-26.0-arm64.tar.xz
+bin-sha: b32c96a87e3984721aa3170752c6558c30b1340d1845bef435fc5c4584ccce78

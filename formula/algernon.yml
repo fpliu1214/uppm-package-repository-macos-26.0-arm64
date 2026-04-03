@@ -1,5 +1,5 @@
 summary: Pure Go web server with Lua, Markdown, HTTP/2 and template support
 webpage: https://github.com/xyproto/algernon/
 version: 1.17.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/algernon-1.17.5-MacOSX-26.0-arm64.tar.xz
-bin-sha: ace4aa898fb42b9f743849dafc423d4eafd8aebfde686158412a480bfa4a4d69
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/algernon-1.17.5-MacOSX-26.0-arm64.tar.xz
+bin-sha: 78aa83cfd2fc0e31bc8c8fee8a9d50ca377132817f52666cb4006b7700e357da

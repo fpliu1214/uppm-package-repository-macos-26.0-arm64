@@ -1,5 +1,5 @@
 summary: C++ geography library
 webpage: https://geographiclib.sourceforge.io/
 version: 2.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/geographiclib-2.7-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1211c7eded41b9c654aa23759263a92361068cf406f98b1842318b1238020a9e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/geographiclib-2.7-MacOSX-26.0-arm64.tar.xz
+bin-sha: ffd650c5f259ed44f249d44344fb573d32e643047bad83f494cd82e30889afd3

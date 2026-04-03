@@ -1,5 +1,5 @@
 summary: A command-line tool for interacting with GitHub, GitLab, GitTea, Forgejo and Bugzilla
 webpage: https://github.com/herrhotzenplotz/gcli/
 version: 2.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gcli-2.10.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 53d6d9f48ad77edcb50ce8e8f8e4140ccd73820d0823d7b49364c62959b81294
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/gcli-2.10.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1e0a3320586ae98f3629ee2c9021f6dde562da1c1950451f28ab7368f498a04f

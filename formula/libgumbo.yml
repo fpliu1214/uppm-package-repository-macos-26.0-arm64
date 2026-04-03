@@ -1,5 +1,5 @@
 summary: C99 library for parsing HTML5
 webpage: https://codeberg.org/gumbo-parser/gumbo-parser
 version: 0.13.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libgumbo-0.13.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 52bb051f10b33719d48974dd80b94dee0fb1f5a8d15b4168d66f11794bc2bb7a
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libgumbo-0.13.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: bc5bf005c6db96d0df296410190fe7de99092e820c730d5583b840d9c0096c4a

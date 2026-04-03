@@ -1,0 +1,5 @@
+summary: Library access to GnuPG
+webpage: https://www.gnupg.org/related_software/gpgme/
+version: 2.0.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libgpgme-2.0.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1ce2553b5cf00ff1302535cbeaa3cfb73abf30770d1a4ece21e2683c71556069

@@ -1,5 +1,5 @@
 summary: CSS parser and selection engine
 webpage: https://www.netsurf-browser.org/projects/libcss/
 version: 0.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libcss-0.9.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7cd8c41b4bc0e69567f41997289314d6e0488888034c95389595e273f2ebf8f2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libcss-0.9.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: df87101c78a743edc06b878ca97c58e4e89e668f6116056db3f5ae46630c5918

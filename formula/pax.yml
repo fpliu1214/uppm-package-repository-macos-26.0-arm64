@@ -1,0 +1,5 @@
+summary: Portable Archive Interchange archive tool
+webpage: https://mbsd.evolvis.org/pax.htm
+version: 20240817
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pax-20240817-MacOSX-26.0-arm64.tar.xz
+bin-sha: fe654f895e3fee7c0b3a8fb500a72076743410cbd3cce3b044a6612112e92456

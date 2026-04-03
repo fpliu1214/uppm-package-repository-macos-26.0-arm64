@@ -1,0 +1,5 @@
+summary: Modular, composable client/server abstractions framework
+webpage: https://github.com/facebook/wangle/
+version: 2026.01.12.00
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libwangle-2026.01.12.00-MacOSX-26.0-arm64.tar.xz
+bin-sha: a18809335c8e3ef04fbf44b8afe8c1363c78141f29bd7ef0b46d808886763cc3

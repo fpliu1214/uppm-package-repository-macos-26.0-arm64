@@ -1,5 +1,5 @@
 summary: A fast, small, safe, gradually typed embeddable scripting language derived from Lua
 webpage: https://luau-lang.org
 version: 0.628
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/luau-0.628-MacOSX-26.0-arm64.tar.xz
-bin-sha: fd952d51e84a07cc3dc2cd31331443036ae1599e2699e2098f04e2c6443a0264
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/luau-0.628-MacOSX-26.0-arm64.tar.xz
+bin-sha: b910704067d29b522f9ec11d62c82176e2c9b472d884a3822d00ec797bcaced4

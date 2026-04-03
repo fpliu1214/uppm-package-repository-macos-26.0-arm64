@@ -1,5 +1,5 @@
 summary: A command-line tool for interacting with SQLite databases
 webpage: https://sqlite.org/
 version: 3.51.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/sqlite3-3.51.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 0bc46ee041dedd7f8d977ae5b828cd637a23ce62fb00651e8d738a2a97646cbd
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/sqlite3-3.51.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 66f62a27a8176b93c3cd4ba4ad3e4f2adb27e46b4e75196e37126112b25ddd57

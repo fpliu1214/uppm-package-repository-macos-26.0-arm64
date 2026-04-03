@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
-version: 3.31.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/cmake-3.31.11-MacOSX-26.0-arm64.tar.xz
-bin-sha: 6c7fd496c53d0a958d5f6944c4453e2478cf7ae01a13cfb5743fdc5953480a9d
+version: 4.2.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/cmake-4.2.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: a2e179ea7969f417827f19e4f3da7525b00f6e965285b839cbccbbadb6bb63f4

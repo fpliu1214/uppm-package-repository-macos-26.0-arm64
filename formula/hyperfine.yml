@@ -1,5 +1,5 @@
 summary: A command-line tool for benchmarking
 webpage: https://github.com/sharkdp/hyperfine/
 version: 1.20.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/hyperfine-1.20.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 8ab5b39158dde481ac2d40643133ba7d34b7d595fd1361396112231644e239f4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/hyperfine-1.20.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 68842eeaa5b0fc92e944038f67e67a9656213a45079e22d567d0c4c577c363fc

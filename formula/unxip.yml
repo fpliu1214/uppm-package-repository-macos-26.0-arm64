@@ -1,5 +1,5 @@
 summary: A command-line tool designed for rapidly unarchiving Xcode XIP files and writing them to disk with good compression
 webpage: https://github.com/saagarjha/unxip/
 version: 3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/unxip-3.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 9ed7ef8f7e28b6e28f437201ed9917854b4874b46315957c83be068a57d47260
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/unxip-3.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: d624fb1fb2fee4b412c9c48a91a1eaf537b9fb0e444b601e70b5e6ad3dbe9843

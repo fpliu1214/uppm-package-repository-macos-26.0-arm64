@@ -1,5 +1,5 @@
 summary: Get, set, and list display resolution
 webpage: https://github.com/jhford/screenresolution/
 version: 1.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/screenresolution-1.6-MacOSX-26.0-arm64.tar.xz
-bin-sha: 52fe07fb536a11337d4ca87525d72ed8cd07428ab4795a5e2baf2b2aa7e1108e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/screenresolution-1.6-MacOSX-26.0-arm64.tar.xz
+bin-sha: a336c8d6c2860e4340348748dbb3f5e325964f1adb34f8eb8d9ad0b45881353f

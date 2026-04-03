@@ -1,5 +1,5 @@
 summary: An extremely fast Python package and project manager, written in Rust
 webpage: https://github.com/astral-sh/uv/
 version: 0.9.26
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/uv-0.9.26-MacOSX-26.0-arm64.tar.xz
-bin-sha: ee613775921f27bc11bb419ef399fb579fa8a91bfc1f35f3b28601d74acaadd4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/uv-0.9.26-MacOSX-26.0-arm64.tar.xz
+bin-sha: a00da73ac8cbb86799c05a80afce568e9e8cba40f519efc2fecebb626e4be98c

@@ -1,5 +1,5 @@
 summary: Persistent key-value database, with built-in net interface
 webpage: https://redis.io
 version: 8.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/redis-8.4.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: be2688b2e372cbaab8b86f1b362391e6c1096e44e32ce13f8f2457892b101086
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/redis-8.4.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: b4894b388e6f8fef03fa3e6b1d14b5cc334977f8dabef46d654bdc5818a46a90

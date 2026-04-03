@@ -1,5 +1,5 @@
 summary: An efficient feature complete C++ bittorrent implementation focusing on efficiency and scalability
 webpage: http://libtorrent.org
 version: 2.0.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libtorrent-rasterbar-2.0.11-MacOSX-26.0-arm64.tar.xz
-bin-sha: 4135520e37d0af5c131b74ddb9f70476d4aa189c83f36b042a687fe55ebee5e5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libtorrent-rasterbar-2.0.11-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8d5d4cd973d37105686da8f9dac14e8fcd093dfdd932c5234403e66d33233bce

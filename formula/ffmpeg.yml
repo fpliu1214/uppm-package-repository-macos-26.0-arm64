@@ -1,0 +1,5 @@
+summary: A complete, cross-platform solution to record, convert and stream audio and video
+webpage: https://ffmpeg.org/
+version: 8.0.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/ffmpeg-8.0.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8111e499361e4e0f3a52803a8e4c469ee5d33f9e9a95cb51cfd32d3ca6665291

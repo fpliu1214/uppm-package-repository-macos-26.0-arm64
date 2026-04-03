@@ -1,5 +1,5 @@
 summary: A command-line utility to print your currently running system information
 webpage: https://github.com/leleliu008/sysinfo
-version: 2026.02.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/sysinfo-2026.02.23-MacOSX-26.0-arm64.tar.xz
-bin-sha: 975bc8f53e70754071a0084aa3a485e017cbf5bfc8d05739ae60670cc326a546
+version: 2026.03.31
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/sysinfo-2026.03.31-MacOSX-26.0-arm64.tar.xz
+bin-sha: aebdbb327c0af3cc91b72ecc126d13f48662653660747db919a7397e6236d92b

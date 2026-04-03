@@ -1,5 +1,5 @@
 summary: Sampling profiler for Ruby
 webpage: https://rbspy.github.io/
 version: 0.27.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/rbspy-0.27.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 39539699883968307c0f33f55359d8bcbb2336a2de720feb14ac1c3a9265e658
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/rbspy-0.27.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1c90a100ebb8811c0e0fe0f3dbc85ade755e81ae080db716f022ca8719e5a94d

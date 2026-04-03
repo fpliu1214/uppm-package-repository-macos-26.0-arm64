@@ -1,5 +1,5 @@
 summary: Decentralized, peer to peer payment network
 webpage: https://bitcoincore.org/
 version: 30.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/bitcoin-30.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2232d74fd1c84ef78d172a677a91fdbbb03b3d95adf44fc7fcd35921e5d45134
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/bitcoin-30.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 604896d8e4fcbc9aabf5bf7545d6909de18468e4e5d395887031e6ac32d7a8af

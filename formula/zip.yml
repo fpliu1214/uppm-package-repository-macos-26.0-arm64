@@ -1,5 +1,5 @@
 summary: Compression and file packaging/archive utility
 webpage: https://infozip.sourceforge.io/Zip.html
 version: 3.0.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/zip-3.0.13-MacOSX-26.0-arm64.tar.xz
-bin-sha: 22fcc1f9eaaeb4887c85b618de2604858d9e6615b14edabd065a9a820119c7d9
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/zip-3.0.13-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1a3dcd10abb4094726f99abc5d036b3fd213fbbb441134233fd6c4e960e6534b

@@ -1,5 +1,5 @@
 summary: Image manipulation library
 webpage: https://www.ijg.org/
 version: 10
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libjpeg-10-MacOSX-26.0-arm64.tar.xz
-bin-sha: f668d30d376d90e8119e87c4dc1376766351433c27b269c2a8a6dfa51aeb7a87
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libjpeg-10-MacOSX-26.0-arm64.tar.xz
+bin-sha: badf3108536744892338b5a4135f1b83aaa33ca31a61a024787af149864ea769

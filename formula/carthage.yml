@@ -1,5 +1,5 @@
 summary: A simple, decentralized dependency manager for Cocoa
 webpage: https://github.com/Carthage/Carthage
 version: 0.40.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/carthage-0.40.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 6ef6be27b423d14a7ba35293623d06bb4ca81511af4a69ddc0a26c26ed97354d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/carthage-0.40.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2d423dad68bce6f01a79e54bfcb3d19b30b497b8cad1c28bc8c9fdab8ab9cc37

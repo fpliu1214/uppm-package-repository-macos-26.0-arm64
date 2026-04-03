@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.6a
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/tmux-3.6a-MacOSX-26.0-arm64.tar.xz
-bin-sha: a4e5dc0a9d96cb0e795479e97acc9cca19eaf615cf38f5545d1d17437a85e849
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/tmux-3.6a-MacOSX-26.0-arm64.tar.xz
+bin-sha: 1e3027bf3a42b02cba4848a0ff2ad60536508c89e5e99327de0eef9a28ff8a9f

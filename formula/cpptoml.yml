@@ -1,0 +1,5 @@
+summary: Header-only library for parsing TOML
+webpage: https://github.com/skystrife/cpptoml/
+version: 0.1.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/cpptoml-0.1.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 8bd2f6df077a21344490f2082a6650c8e55145599030b971d5c3ce5e3420ce9e

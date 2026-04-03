@@ -1,5 +1,5 @@
 summary: Tool for generating GNU Standards-compliant Makefiles
 webpage: https://www.gnu.org/software/automake
 version: 1.18.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/automake-1.18.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: b3d993b1fde7a8a14d84ff7284ae991a85fcfcb6a23b5ac42fa978be6dea8645
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/automake-1.18.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 016c5ba25b9ab681cc059dc592eb8fe07028ba0c45b6e67ae6a1d3259761630c

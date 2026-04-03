@@ -1,5 +1,5 @@
 summary: A backup tool that provides fast, encrypted, deduplicated backups
 webpage: https://github.com/rustic-rs/rustic/
 version: 0.10.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/rustic-0.10.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 20f84699f600a284eaa288bc7846a99cc7417bdb0711db7352d535141a5fc4b1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/rustic-0.10.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 19b0bc8b1a60f253bd1c5a701a1fe12fcf5e79d4e622c651e20be0208166eddd

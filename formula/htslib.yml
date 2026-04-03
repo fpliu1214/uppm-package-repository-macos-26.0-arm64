@@ -1,5 +1,5 @@
 summary: A C library for high-throughput sequencing data formats
 webpage: https://www.htslib.org/
 version: 1.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/htslib-1.23-MacOSX-26.0-arm64.tar.xz
-bin-sha: 9ed39d9a88ecc0faf9f7e7b0fb89d2b0cebcd5564e8084a311a8666160a0d221
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/htslib-1.23-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7decee5ad537aa1e8d76757bfa7fa0e1cb596b680e18cf5b744d5a902634f39b

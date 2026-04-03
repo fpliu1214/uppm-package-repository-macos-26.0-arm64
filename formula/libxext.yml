@@ -1,0 +1,5 @@
+summary: X.Org Library for common extensions to the X11 protocol
+webpage: https://www.x.org/
+version: 1.3.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libxext-1.3.5-MacOSX-26.0-arm64.tar.xz
+bin-sha: 723f265af1a89a333830e7046a20cc90472a07baa6448f82c34a4b93f63366b6

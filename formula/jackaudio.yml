@@ -1,5 +1,5 @@
 summary: Audio Connection Kit
 webpage: https://jackaudio.org/
 version: 1.9.22
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/jackaudio-1.9.22-MacOSX-26.0-arm64.tar.xz
-bin-sha: bc39c2a2a49a71e53b67849837d249a53e7a1ba03764e5668e918507a5dc4360
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/jackaudio-1.9.22-MacOSX-26.0-arm64.tar.xz
+bin-sha: 903d2560e7d455b9ed61cd7d1a94e616e259599739f414c3ee8a92563920ffc8

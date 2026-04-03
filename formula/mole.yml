@@ -1,0 +1,5 @@
+summary: A command-line tool to do a deep clean and optimize your macOS
+webpage: https://github.com/tw93/Mole/
+version: 1.28.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/mole-1.28.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: d215bff37ebdaf3d9bfe5a535ea90e8e59b9df03097f96a2b6def9f32691aa25

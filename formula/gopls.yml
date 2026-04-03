@@ -1,5 +1,5 @@
 summary: Language server for the Go language
 webpage: https://github.com/golang/tools/tree/master/gopls
 version: 0.21.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/gopls-0.21.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 92de6124dd18faba58d8b3dacc9041b2a7ef605bd26a3cbd3de7d93333223bb3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/gopls-0.21.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9237f8c155da7aacd34436bb7fc7c4bcf4c931894e81a3690a2c68d068526695

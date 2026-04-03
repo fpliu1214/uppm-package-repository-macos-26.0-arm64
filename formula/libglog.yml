@@ -1,0 +1,5 @@
+summary: Google Logging Library
+webpage: https://github.com/google/glog/
+version: 0.7.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libglog-0.7.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: b25cc09adae643b060306c478a00ecfb93ceaf954845c715cb91a9545d7d07a3

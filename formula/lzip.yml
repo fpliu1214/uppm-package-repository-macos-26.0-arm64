@@ -1,5 +1,5 @@
 summary: LZMA-based compression program similar to gzip or bzip2
 webpage: https://www.nongnu.org/lzip
 version: 1.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/lzip-1.25-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2ec4480cd38a4de84b1073b74edf12e57e3f9b2e88c2ce9b83e85c5ad97526b7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/lzip-1.25-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9278be225ab330069c8ba2e4e2fea540595ed274671ec8bc707ded767f1ed539

@@ -1,0 +1,5 @@
+summary: A shared library for Watchman and Eden projects
+webpage: https://github.com/facebookexperimental/edencommon/
+version: 2026.01.12.00
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libedencommon-2026.01.12.00-MacOSX-26.0-arm64.tar.xz
+bin-sha: 6cb179ead0187b833e8409171976783200adb1b43fc8963c16e30019d440ebce

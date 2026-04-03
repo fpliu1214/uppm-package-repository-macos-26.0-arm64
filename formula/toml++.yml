@@ -1,5 +1,5 @@
 summary: TOML config file parser and serializer for C++
 webpage: https://marzer.github.io/tomlplusplus/
 version: 3.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/toml++-3.4.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 7f17e2f1e97931d592759cbce49f5896da77ee5313bbf4be5b99eb6fd4d09292
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/toml++-3.4.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: a67d9394033bed34b6c1e03dc5d479453776ca89c1947cb761b68eb24f921c42

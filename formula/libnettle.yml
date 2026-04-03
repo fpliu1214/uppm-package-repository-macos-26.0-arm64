@@ -1,5 +1,5 @@
 summary: Low-level cryptographic library
 webpage: https://www.lysator.liu.se/~nisse/nettle
 version: 3.10.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libnettle-3.10.2-MacOSX-26.0-arm64.tar.xz
-bin-sha: 49ca94c267b4fcf22c4deaef7848a2b90a83352a7f443cfad4806d35c9a98eb1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libnettle-3.10.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2fa65647da2e9e4618b748bd3ebcaf64c4bfee5f3f071779568e36f69a8b2374

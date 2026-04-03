@@ -1,5 +1,5 @@
 summary: Seamless operability between C++11 and Python
 webpage: https://github.com/pybind/pybind11/
 version: 3.0.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pybind11-3.0.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: c5fdbfc84a651ed5f7c2a98887d3cba9408a009cacc65eca16097fc179511411
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pybind11-3.0.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: 56557ee5f208d51b7c865528f82bede8a8d28e4e1209c99346fe916a77ceb959

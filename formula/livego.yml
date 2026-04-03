@@ -1,5 +1,5 @@
 summary: live video streaming server in golang
 webpage: https://github.com/gwuhaolin/livego/
 version: 0.0.20
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/livego-0.0.20-MacOSX-26.0-arm64.tar.xz
-bin-sha: 9b59415b2a87be15d787c5715e572aebb955a1285c5aa7a3b263f174edc7cc39
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/livego-0.0.20-MacOSX-26.0-arm64.tar.xz
+bin-sha: 21a29aa427231c5f52bcf85576b4c7144ebe9e7f7b61a52006ccec3219bb96b3

@@ -1,5 +1,5 @@
 summary: HTTP(S) server and reverse proxy, and IMAP/POP3 proxy server
 webpage: https://nginx.org
 version: 1.29.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/nginx-1.29.4-MacOSX-26.0-arm64.tar.xz
-bin-sha: 66c3fef1486bf1b25619f8262ff1233370c7fe82501b59332f6198523277e16d
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/nginx-1.29.4-MacOSX-26.0-arm64.tar.xz
+bin-sha: e4f4e5cebf56953b3fc53e1e86d6f528e8b81527ac71aecb125a2c4216592da8

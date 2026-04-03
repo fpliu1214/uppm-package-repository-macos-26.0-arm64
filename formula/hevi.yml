@@ -1,5 +1,5 @@
 summary: A hex viewer, just like xxd or hexdump
 webpage: https://github.com/Arnau478/hevi/
 version: 1.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/hevi-1.1.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 0c151c28bfd5a6c766b7946d1bf565a2b42a1eb7c894d02dd88a7ccac60098da
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/hevi-1.1.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 9ea0e75ef83b7a77d8e97810b841e1b6f2bba96ed2dfa751807dbb7422915b85

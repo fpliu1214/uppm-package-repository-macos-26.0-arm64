@@ -1,5 +1,5 @@
 summary: Version of the SSL/TLS protocol forked from OpenSSL
 webpage: https://www.libressl.org/
 version: 4.2.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libressl-4.2.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 3124cfa50f3aed548d64395c2b5e7e829e31bc05bc766d7fff4392086f2c9dd4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libressl-4.2.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: f92616e6977cddf5e0601b7e7c00f0e65336634c1ac719928602ac1aa5c67ba1

@@ -1,0 +1,5 @@
+summary: Client and window-manager helpers for EWMH and ICCCM
+webpage: https://xcb.freedesktop.org
+version: 0.4.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/xcb-util-wm-0.4.2-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7f4e05957c6b598761f92cb4de1622440a8d6ae40433e1702d0bc434f07601b5

@@ -1,5 +1,5 @@
 summary: A command-line tool to perform various operations on string
 webpage: https://github.com/abhimanyu003/sttr/
 version: 0.2.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/sttr-0.2.25-MacOSX-26.0-arm64.tar.xz
-bin-sha: 1ef51f6f1084a68c22f201b8c126138d3fa683a715758d572392df5c2e610e0b
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/sttr-0.2.25-MacOSX-26.0-arm64.tar.xz
+bin-sha: bd4ca8c7a8e8ea698a0e670cdae0f42a00b17b0d44dbd4715239090cb735dea5

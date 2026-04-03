@@ -1,5 +1,5 @@
 summary: Parse HTML at the command-line
 webpage: https://github.com/EricChiang/pup
-version: 2026.02.23
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pup-2026.02.23-MacOSX-26.0-arm64.tar.xz
-bin-sha: c9064dc4e2960c1eeba0f7829dc731a3eb6dbc5c40d45c7f077675c10ca7b41f
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pup-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: 55f30e90c80730727976fa24978d8834b7099384101b9c75f716f0c3f7031e99

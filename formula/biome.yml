@@ -1,5 +1,5 @@
 summary: Toolchain of the web
 webpage: https://biomejs.dev/
-version: 2.3.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/biome-2.3.13-MacOSX-26.0-arm64.tar.xz
-bin-sha: dbb7b84a6584940584cab763abe60102c9c362fe2ee2d5ead8313e04a58e38f5
+version: 2.4.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/biome-2.4.7-MacOSX-26.0-arm64.tar.xz
+bin-sha: e583bc3ba83fc2dc85ec70abb3b8dad4c07de81d4b5322b249c19ccf151b89c3

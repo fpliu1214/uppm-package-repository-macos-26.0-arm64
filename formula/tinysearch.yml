@@ -1,5 +1,5 @@
 summary: A lightweight, fast, full-text search engine for static websites built with Rust and Wasm
 webpage: https://github.com/tinysearch/tinysearch/
 version: 0.10.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/tinysearch-0.10.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: 206a4e594a106253683af5f369cb6a5869aecc0a0a0efe2e2da1a6e432bdaf14
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/tinysearch-0.10.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 7f399dba1bc5b321217ce1d9ecb922a368392569fbaed8a6ca51f67d179512df

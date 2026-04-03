@@ -1,0 +1,5 @@
+summary: A SIXEL encoder/decoder
+webpage: https://github.com/libsixel/libsixel/
+version: 1.10.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libsixel-1.10.5-MacOSX-26.0-arm64.tar.xz
+bin-sha: 07fcaa461d512d1d0c7c182b3a9931553c3571e2fcda198f13acfd9bf3308e0c

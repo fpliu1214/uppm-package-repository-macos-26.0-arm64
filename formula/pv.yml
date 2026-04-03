@@ -1,5 +1,5 @@
 summary: Monitor data progress through a pipe
 webpage: https://www.ivarch.com/programs/pv.shtml
 version: 1.10.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/pv-1.10.3-MacOSX-26.0-arm64.tar.xz
-bin-sha: 2a277fc7e3a4843d1a7de7fa1b58346d9c8065a94aa81e79b2de8f39cf813592
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/pv-1.10.3-MacOSX-26.0-arm64.tar.xz
+bin-sha: 26fa009c28fecc0552bf1b9b56def7d7a33400ef197e1d6da6c1261cdd1e2aa1

@@ -1,5 +1,5 @@
 summary: Library for JSON, based on GLib
 webpage: https://wiki.gnome.org/Projects/JsonGlib
 version: 1.10.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/json-glib-1.10.8-MacOSX-26.0-arm64.tar.xz
-bin-sha: 08e06fcf42bcc855c7ef293ab5af12186506dd00953536edd3e89b9d5cbcf169
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/json-glib-1.10.8-MacOSX-26.0-arm64.tar.xz
+bin-sha: 23877e8e5bfa853083ce34e0c8c471fd6c3e582283a9a3dcfd7c2d1693623be8

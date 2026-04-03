@@ -1,5 +1,5 @@
 summary: GNOME XML library
 webpage: http://xmlsoft.org
 version: 2.15.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libxml2-python3-2.15.1-MacOSX-26.0-arm64.tar.xz
-bin-sha: 55ff884f919a1ef4f5d7f63bcddef5871e221d36960424ffcbd606b0a0586453
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libxml2-python3-2.15.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: b3d1e1e3a72428fceddb66c2bd6f46f92ebe0cad2a6d2cff4d7f7bf321b456e2

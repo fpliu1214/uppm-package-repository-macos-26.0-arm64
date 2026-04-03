@@ -1,5 +1,5 @@
 summary: C语言学习项目
 webpage: https://github.com/leleliu008/C-examples
-version: 2026.02.24
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/c-examples-2026.02.24-MacOSX-26.0-arm64.tar.xz
-bin-sha: 9fd9d30d7668e30bcf9d7230af5457ef90cebf8a20ef8c182211976f6335792e
+version: 2026.04.01
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/c-examples-2026.04.01-MacOSX-26.0-arm64.tar.xz
+bin-sha: 2227de7dcb01d383100bad4a54221732d92e815b01e99f6842fc9fd4e04059b8

@@ -1,5 +1,5 @@
 summary: Better RPC framework
 webpage: https://brpc.apache.org/
 version: 1.16.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/libbrpc-1.16.0-MacOSX-26.0-arm64.tar.xz
-bin-sha: b7db7c9c4413a389ca2bda9141d620668c77e3696c7f4d6c9d6edd5066aab8bf
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/libbrpc-1.16.0-MacOSX-26.0-arm64.tar.xz
+bin-sha: 48dafc7bf2f187379aae01c7240b42b4e64b27fad3c50a7ca0868a1075dd2cec

@@ -1,5 +1,5 @@
 summary: Go implementation of the Ethereum protocol
 webpage: https://geth.ethereum.org/
 version: 1.16.8
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-26.0-arm64/releases/download/2026.02.25/ethereum-1.16.8-MacOSX-26.0-arm64.tar.xz
-bin-sha: 49dfac3ca00d1a19265c23cf41826cefc19bad4effa6f872eef4906664bfa701
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.1/ethereum-1.16.8-MacOSX-26.0-arm64.tar.xz
+bin-sha: ee256ae7ef280f582434589e75d4d591cb50814855eaa9dffd7f28e5996f01ed

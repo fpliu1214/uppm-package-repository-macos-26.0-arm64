@@ -1,0 +1,5 @@
+summary: X.Org Protocol Headers
+webpage: https://www.x.org/
+version: 2025.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-26.0-arm64/releases/download/2026.04.03.2/xorgproto-2025.1-MacOSX-26.0-arm64.tar.xz
+bin-sha: a8eebfb24f2d6ee32b1c39156bfe35a15583272c754ded3c07961145d5868174
